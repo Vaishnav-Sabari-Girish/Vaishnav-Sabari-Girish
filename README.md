@@ -14,4 +14,5 @@
 - ⚡ Fun fact: For me, engineering is like playing an RPG—every project is a  quest, every challenge is a boss battle, and every completed task is an achievement unlocked! <br><br>
 
 - 📫 How to reach me: &nbsp; &nbsp;  <a href="https://t.me/vaishnav_dev"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a> &nbsp; &nbsp; 
-<a href="https://www.linkedin.com/in/vaishnav-sabari-girish-b492b1264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedln"/></a>
+<a href="https://www.linkedin.com/in/vaishnav-sabari-girish-b492b1264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedln"/></a> &nbsp; &nbsp;
+<a href="mailto:forgamesonly684@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
