@@ -1,4 +1,4 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 - I am @Vaishnav-Sabari-Girish.
 <br> <br> 
 - 🔭 I’m currently working on a tool that will help devs who are making the transition from Arduino IDE to Arduino-cli. Find it [here](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive/) <br> <br>
