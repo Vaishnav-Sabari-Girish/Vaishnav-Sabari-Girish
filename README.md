@@ -6,7 +6,7 @@
 </p>
 <br><br>
 
-- To access the code in the Radicle Repo , click [here](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z2xtEKkr65SpfQZUQWgqVKSVkfbfw/tree/c20df4b0032bcd91203b8d1ebea6eefa67caaac1)
+- To access the code in the Radicle Repo , click [here](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z2xtEKkr65SpfQZUQWgqVKSVkfbfw)
 
 <br> <br>
 
