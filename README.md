@@ -41,5 +41,7 @@
 <br><br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Vaishnav-Sabari-Girish&show_icon=true&theme=panda" alt="stats" /></p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Vaishnav-Sabari-Girish&theme=cobalt&hide_border=true" alt="stats2"/></p>
+
 
 <br><br>
