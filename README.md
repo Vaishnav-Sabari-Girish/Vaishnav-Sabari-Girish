@@ -44,8 +44,10 @@
 <br><br>
 
 
-<p align="center"> <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Vaishnav-Sabari-Girish&show_icons=true&theme=cobalt" alt="stats2"/></p>
-<p align="center"><img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Vaishnav-Sabari-Girish&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></p>
+
+<p align="center"><img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnav-Sabari-Girish&theme=2077" alt="readme stats" /></p>
+<br>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaishnav-Sabari-Girish&theme=2077  " alt="stats3"/></p>
 
 
 
