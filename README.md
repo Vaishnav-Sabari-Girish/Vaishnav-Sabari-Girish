@@ -43,8 +43,10 @@
 <a href="https://dev.to/vaishnav_sabari_girish"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a> &nbsp; &nbsp;
 <br><br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Vaishnav-Sabari-Girish&show_icon=true&theme=panda" alt="stats" /></p>
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Vaishnav-Sabari-Girish&theme=cobalt&hide_border=true" alt="stats2"/></p>
+
+<p align="center"> <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Vaishnav-Sabari-Girish&show_icons=true&theme=cobalt" alt="stats2"/></p>
+<p align="center"><img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Vaishnav-Sabari-Girish&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></p>
+
 
 
 <br><br>
