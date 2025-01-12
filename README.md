@@ -38,7 +38,7 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![Helix](https://img.shields.io/badge/Helix-281733.svg?style=for-the-badge&logo=Helix&logoColor=white)   ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)  ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br> <br>
 - Terminal Utilities (and Emulators)
-- <br><br>
+<br><br>
 ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)   ![Ghostty](https://img.shields.io/badge/Ghostty-212E71?style=for-the-badge&logo=ghostty&logoColor=white)     ![Homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)     ![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)       ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 <br><br>
 - ⚡ Fun fact: &nbsp;  **For me, engineering is like playing an RPG—every project is a  quest, every challenge is a boss battle, and every completed task is an achievement unlocked!** <br><br>
