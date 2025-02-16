@@ -2,11 +2,7 @@
 
 
 ## <h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?duration=3000&height=70&font=Fira+Code&center=true&pause=300&multiline=true&width=430&lines=Hi+there+%F0%9F%91%8B;I+am+@Vaishnav-Sabari-Girish)](https://git.io/typing-svg) </p>
-<br> <br> 
 
-## My GitHub details in a neofetch like format 
-
-![](out.png)
 <br><br>
 - 🔭 I’m currently working on a tool that will help devs who are making the transition from Arduino IDE to Arduino-cli. Find it here. <br><br>
 <p align="center"><a href="https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnav-Sabari-Girish&repo=arduino-cli-interactive&theme=panda" alt="arduino-cli-interactive" /></a> &nbsp;&nbsp; 
@@ -51,6 +47,8 @@
 <a href="https://www.linkedin.com/in/vaishnav-sabari-girish-b492b1264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedln"/></a> &nbsp; &nbsp;
 <a href="https://medium.com/@forgamesonly684"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" /></a> &nbsp; &nbsp;
 <a href="https://dev.to/vaishnav_sabari_girish"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a> &nbsp; &nbsp;
+<a href="https://mastodon.social/@vaishnav_s"><img src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon"/></a> &nbsp; &nbsp;
+<a href="https://bsky.app/profile/vaishnav-dev.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" alt="Bluesky"/></a> &nbsp; &nbsp;
 
 <br><br>
 
@@ -63,7 +61,5 @@ To prove, all my digital accounts are original, here is my Keyoxide Link :
 <p align="center"><img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnav-Sabari-Girish&theme=2077" alt="readme stats" /></p>
 <br>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaishnav-Sabari-Girish&theme=2077  " alt="stats3"/></p>
-
-
 
 <br><br>
