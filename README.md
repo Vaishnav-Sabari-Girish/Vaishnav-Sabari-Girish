@@ -10,6 +10,7 @@
 <br><br>
 
 - To access the code in the Radicle Repo , click [here](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z2xtEKkr65SpfQZUQWgqVKSVkfbfw)
+- To access the code in the Codeberg.org repo, click [here](https://codeberg.org/Vaishnav-Sabari-Girish/arduino-cli-interactive.git)
 - Click here to go to my website: &nbsp; <a href="https://vaishnav-sabari-girish.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white" alt="Website"/>
 </a>
 
