@@ -9,12 +9,12 @@
 </p>
 <br><br>
 
-- To access the code in the Radicle Repo , click [![Radicle](https://img.shields.io/badge/Radicle-7677CA.svg?style=for-the-badge&logo=Radicle&logoColor=white) ](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z2xtEKkr65SpfQZUQWgqVKSVkfbfw)
-- To access the code in the Codeberg.org repo, click [![CodeBerg](https://img.shields.io/badge/Codeberg-2185D0.svg?style=for-the-badge&logo=Codeberg&logoColor=white) ](https://codeberg.org/Vaishnav-Sabari-Girish/arduino-cli-interactive.git)
-- To access the code in the Gitea Repo, click [![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logo=Gitea&logoColor=white)
+- To access the code in the Radicle Repo , click &nbsp; &nbsp; [![Radicle](https://img.shields.io/badge/Radicle-7677CA.svg?style=for-the-badge&logo=Radicle&logoColor=white) ](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z2xtEKkr65SpfQZUQWgqVKSVkfbfw)
+- To access the code in the Codeberg.org repo, click &nbsp; &nbsp;[![CodeBerg](https://img.shields.io/badge/Codeberg-2185D0.svg?style=for-the-badge&logo=Codeberg&logoColor=white) ](https://codeberg.org/Vaishnav-Sabari-Girish/arduino-cli-interactive.git)
+- To access the code in the Gitea Repo, click &nbsp; &nbsp;[![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logo=Gitea&logoColor=white)
 ](https://gitea.com/Vaishnav-Sabari-Girish/arduino-cli-interactive)
 
-- Click here to go to my website: &nbsp; [![My Website](click-here-for-website.svg)](https://vaishnav-sabari-girish.github.io/) 
+- Click here to go to my website: &nbsp; &nbsp;[![My Website](click-here-for-website.svg)](https://vaishnav-sabari-girish.github.io/) 
 
 <br> <br>
 
