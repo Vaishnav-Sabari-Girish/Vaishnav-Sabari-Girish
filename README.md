@@ -13,7 +13,7 @@
 - To access the code in the Codeberg.org repo, click [here](https://codeberg.org/Vaishnav-Sabari-Girish/arduino-cli-interactive.git)
 - To access the code in the Gitea Repo, click [here](https://gitea.com/Vaishnav-Sabari-Girish/arduino-cli-interactive)
 
-- Click here to go to my website: &nbsp; [![My Website](click-here-for-website.svg)] 
+- Click here to go to my website: &nbsp; [![My Website](click-here-for-website.svg)](https://vaishnav-sabari-girish.github.io/) 
 
 <br> <br>
 
