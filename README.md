@@ -16,6 +16,8 @@
 
 - Click here to go to my website: &nbsp; &nbsp;[![My Website](click-here-for-website.svg)](https://vaishnav-sabari-girish.github.io/) 
 
+- Click here to go to my 2nd website &nbsp; &nbsp; [![My Website](click-here-for-website.svg)](https://vaishnav-sabari-girish.codeberg.page/vaishnav/)
+
 <br> <br>
 
 - 🌱 I’m currently learning : &nbsp; &nbsp;  ![Japanese](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-red?style=for-the-badge&logo=japan&logoColor=white) <br> <br> 
