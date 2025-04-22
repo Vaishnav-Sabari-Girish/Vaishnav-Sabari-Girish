@@ -41,7 +41,7 @@
 <br> <br>
 - Terminal Utilities (and Emulators)
 <br><br>
-![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)   ![Ghostty](https://img.shields.io/badge/Ghostty-212E71?style=for-the-badge&logo=ghostty&logoColor=white)     ![Homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)     ![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)       ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
+![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)   ![Ghostty](https://img.shields.io/badge/Ghostty-212E71?style=for-the-badge&logo=ghostty&logoColor=white)     ![Homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white)     ![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)       ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)   ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white) ![Nushell](https://img.shields.io/badge/Nushell-4E9A06.svg?style=for-the-badge&logo=Nushell&logoColor=white)
 <br><br>
 - ⚡ Fun fact: &nbsp;  **For me, engineering is like playing an RPG—every project is a  quest, every challenge is a boss battle, and every completed task is an achievement unlocked!** <br><br>
 
