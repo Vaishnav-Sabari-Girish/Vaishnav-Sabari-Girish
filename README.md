@@ -13,7 +13,7 @@
 - To access the code in the Gitea Repo, click &nbsp; &nbsp;[![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logo=Gitea&logoColor=white)
 ](https://gitea.com/Vaishnav-Sabari-Girish/arduino-cli-interactive)
 
-- Click here to go to my website: &nbsp; &nbsp;[![My Website](click-here-for-website.svg)](https://vaishnav-sabari-girish.github.io/) 
+- Click here to go to my website: &nbsp; &nbsp;[![My Website](click-here-for-website.svg)](https://vaishnav-sabari-girish.codeberg.page/) 
 
 - For all my links, click here: &nbsp; &nbsp; [![All My links](https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white)](https://bento.me/vaishnavs)
 
