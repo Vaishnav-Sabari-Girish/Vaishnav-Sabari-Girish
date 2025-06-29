@@ -34,7 +34,8 @@
 <br><br>
 - 🧰 Miscellaneous Tools
 <br><br>
-![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white)  ![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white) ![Asciinema](https://img.shields.io/badge/asciinema-D40000.svg?style=for-the-badge&logo=asciinema&logoColor=white) 
+![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white)  ![TMUX](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white) ![Asciinema](https://img.shields.io/badge/asciinema-D40000.svg?style=for-the-badge&logo=asciinema&logoColor=white)          ![Typst](https://img.shields.io/badge/Typst-239DAD.svg?style=for-the-badge&logo=Typst&logoColor=white)
+
 <br><br>
 - IDE's I use :
 <br><br>
