@@ -4,14 +4,13 @@
 ## <h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?duration=3000&height=70&font=Fira+Code&center=true&pause=300&multiline=true&width=430&lines=Hi+there+%F0%9F%91%8B;I+am+@Vaishnav-Sabari-Girish)](https://git.io/typing-svg) </p>
 
 <br><br>
-- 🔭 I’m currently working on a tool that will help devs who are making the transition from Arduino IDE to Arduino-cli. Find it here. <br><br>
-<p align="center"><a href="https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnav-Sabari-Girish&repo=arduino-cli-interactive&theme=panda" alt="arduino-cli-interactive" /></a> &nbsp;&nbsp; 
+- 🔭 I’m currently working on a Serial Monitor written in Rust. Find it here. <br><br>
+<p align="center"><a href="https://github.com/Vaishnav-Sabari-Girish/ComChan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnav-Sabari-Girish&repo=ComChan&theme=panda" alt="ComChan" /></a> &nbsp;&nbsp; 
+
 </p>
 <br><br>
 
-- To access the code in the Codeberg.org repo, click &nbsp; &nbsp;[![CodeBerg](https://img.shields.io/badge/Codeberg-2185D0.svg?style=for-the-badge&logo=Codeberg&logoColor=white) ](https://codeberg.org/Vaishnav-Sabari-Girish/arduino-cli-interactive.git)
-- To access the code in the Gitea Repo, click &nbsp; &nbsp;[![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logo=Gitea&logoColor=white)
-](https://gitea.com/Vaishnav-Sabari-Girish/arduino-cli-interactive)
+- To access the code in the Codeberg.org repo, click &nbsp; &nbsp;[![CodeBerg](https://img.shields.io/badge/Codeberg-2185D0.svg?style=for-the-badge&logo=Codeberg&logoColor=white) ](https://codeberg.org/Vaishnav-Sabari-Girish/ComChan)
 
 - Click here to go to my website: &nbsp; &nbsp;[![My Website](click-here-for-website.svg)](https://vaishnav-sabari-girish.codeberg.page/) 
 
