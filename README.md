@@ -64,6 +64,14 @@ To prove, all my digital accounts are original, here is my Keyoxide Link :
 <a href="https://keyoxide.org/aspe:keyoxide.org:UGMJ6VGDFJEOVHF27DC7JD6WMQ"><img src="https://img.shields.io/badge/Keyoxide-4D4D4D.svg?style=for-the-badge&logo=Keycloak&logoColor=white" alt="Keyoxide" /></a> &nbsp; &nbsp;
 
 
+<br>
+
+
+## My Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vaishnav-Sabari-Girish&theme=dracula)](https://github.com/Vaishnav-Sabari-Girish)
+
+<br>
 
 <p align="center"><img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnav-Sabari-Girish&theme=2077" alt="readme stats" /></p>
 <br>
@@ -71,8 +79,3 @@ To prove, all my digital accounts are original, here is my Keyoxide Link :
 
 <br>
 
-## My Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vaishnav-Sabari-Girish&theme=dracula)](https://github.com/Vaishnav-Sabari-Girish)
-
-<br>
