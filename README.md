@@ -12,8 +12,6 @@
 
 - To access the code in the Codeberg.org repo, click &nbsp; &nbsp;[![CodeBerg](https://img.shields.io/badge/Codeberg-2185D0.svg?style=for-the-badge&logo=Codeberg&logoColor=white) ](https://codeberg.org/Vaishnav-Sabari-Girish/ComChan)
 
-- To access the code in the Radicle Repo, click &nbsp; &nbsp;  [![Radicle Repo](./radicle-repo.svg)](https://app.radicle.xyz/nodes/rosa.radicle.xyz/rad:z2CjvmriSZtBGSjEZ2G9QXB19suec/)
-
 - Click here to go to my website: &nbsp; &nbsp;[![My Website](click-here-for-website.svg)](https://vaishnav.world/) 
 
 - For all my links, click here: &nbsp; &nbsp; [![All My links](https://img.shields.io/badge/Bento-768CFF.svg?style=for-the-badge&logo=Bento&logoColor=white)](https://bento.me/vaishnavs)
