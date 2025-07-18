@@ -4,6 +4,11 @@
 ## <h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?duration=3000&height=70&font=Fira+Code&center=true&pause=300&multiline=true&width=430&lines=Hi+there+%F0%9F%91%8B;I+am+@Vaishnav-Sabari-Girish)](https://git.io/typing-svg) </p>
 
 <br><br>
+
+[![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
+
+<br>
+
 - 🔭 I’m currently working on a Serial Monitor written in Rust. Find it here. <br><br>
 <p align="center"><a href="https://github.com/Vaishnav-Sabari-Girish/ComChan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnav-Sabari-Girish&repo=ComChan&theme=panda" alt="ComChan" /></a> &nbsp;&nbsp; 
 
