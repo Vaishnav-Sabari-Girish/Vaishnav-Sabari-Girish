@@ -59,7 +59,7 @@
 <a href="https://medium.com/@forgamesonly684"><img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" /></a> &nbsp; &nbsp;
 <a href="https://dev.to/vaishnav_sabari_girish"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/></a> &nbsp; &nbsp;
 <a href="https://mastodon.social/@vaishnav_s"><img src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon"/></a> &nbsp; &nbsp;
-<a href="https://https://defcon.social/@vaishnav"><img src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon"/></a> &nbsp; &nbsp;
+<a href="https://defcon.social/@vaishnav"><img src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon"/></a> &nbsp; &nbsp;
 <a href="https://bsky.app/profile/vaishnav-dev.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white" alt="Bluesky"/></a>
 <a href="https://line.me/ti/p/QAB--UjKJ4"><img src="https://img.shields.io/badge/LINE-00C300.svg?style=for-the-badge&logo=LINE&logoColor=white" alt="LINE"/></a>&nbsp; &nbsp;
 
