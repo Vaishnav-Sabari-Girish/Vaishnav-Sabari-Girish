@@ -81,5 +81,6 @@ To prove, all my digital accounts are original, here is my Keyoxide Link :
 <br>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaishnav-Sabari-Girish&theme=2077  " alt="stats3"/></p>
 
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishnav-Sabari-Girish&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="stats4" /></p>
 <br>
 
