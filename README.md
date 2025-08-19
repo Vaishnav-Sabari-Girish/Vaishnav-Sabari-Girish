@@ -9,13 +9,11 @@
 
 <br>
 
-- 🔭 I’m currently working on a Serial Monitor written in Rust. Find it here. <br><br>
-<p align="center"><a href="https://github.com/Vaishnav-Sabari-Girish/ComChan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnav-Sabari-Girish&repo=ComChan&theme=panda" alt="ComChan" /></a> &nbsp;&nbsp; 
+- 🔭 I’m currently working on a logical circuit generator written in Rust. Find it here. <br><br>
+<p align="center"><a href="https://github.com/Vaishnav-Sabari-Girish/Kiroku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnav-Sabari-Girish&repo=Kiroku&theme=panda" alt="Kiroku" /></a> &nbsp;&nbsp; 
 
 </p>
 <br><br>
-
-- To access the code in the Codeberg.org repo, click &nbsp; &nbsp;[![CodeBerg](https://img.shields.io/badge/Codeberg-2185D0.svg?style=for-the-badge&logo=Codeberg&logoColor=white) ](https://codeberg.org/Vaishnav-Sabari-Girish/ComChan)
 
 - Click here to go to my website: &nbsp; &nbsp;[![My Website](click-here-for-website.svg)](https://vaishnav.world/) 
 
