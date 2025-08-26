@@ -9,8 +9,8 @@
 
 <br>
 
-- 🔭 I’m currently working on a logical circuit generator written in Rust. Find it here. <br><br>
-<p align="center"><a href="https://github.com/Vaishnav-Sabari-Girish/Kiroku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnav-Sabari-Girish&repo=Kiroku&theme=panda" alt="Kiroku" /></a> &nbsp;&nbsp; 
+- 🔭 I’m currently working on a Embedded Rust Sensor library. Find it here. <br><br>
+<p align="center"><a href="https://github.com/Vaishnav-Sabari-Girish/Hayasen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishnav-Sabari-Girish&repo=Hayasen&theme=panda" alt="Hayasen" /></a> &nbsp;&nbsp; 
 
 </p>
 <br><br>
