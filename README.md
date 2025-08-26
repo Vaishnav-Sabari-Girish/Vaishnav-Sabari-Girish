@@ -71,12 +71,6 @@ To prove, all my digital accounts are original, here is my Keyoxide Link :
 <br>
 
 
-## My Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vaishnav-Sabari-Girish&theme=dracula)](https://github.com/Vaishnav-Sabari-Girish)
-
-<br>
-
 <p align="center"><img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnav-Sabari-Girish&theme=2077" alt="readme stats" /></p>
 <br>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaishnav-Sabari-Girish&theme=2077  " alt="stats3"/></p>
