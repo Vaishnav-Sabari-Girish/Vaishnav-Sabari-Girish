@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vaishnav-Sabari-Girish.Vaishnav-Sabari-Girish" />
 
-### Hey!
 <img src="./out.png" align="left" width="400"/>
 
+### Hey!
 👋 I'm **Vaishnav**.
 
 ⚡ An electronics engineering student passionate about **embedded systems development**.
