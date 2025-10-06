@@ -23,7 +23,7 @@ I joined GitHub **4** years ago and have been actively contributing to open-sour
 
 |**Rust**|**C++ (Arduino)**|**Web & Scripting**|
 |--|--|--|
-|• [Hayasen](https://github.com/Vaishnav-Sabari-Girish/Hayasen) - Embedded sensor abstraction library<br>• [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - Blazingly fast serial monitor for embedded systems<br>• [Kiroku](https://github.com/Vaishnav-Sabari-Girish/Kiroku) - TUI tool for boolean expressions and truth tables|• [Smart Door Lock using Li-Fi](https://github.com/Vaishnav-Sabari-Girish/Smart_Door_Lock_Using_Li-Fi)<br>• [Smart Field Monitoring System](https://github.com/Vaishnav-Sabari-Girish/field_monitoring_system)|• [Portfolio Website](https://vaishnav.world) - HTML/CSS/JS<br>• [arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - Interactive Arduino CLI wrapper|
+|• [Hayasen](https://github.com/Vaishnav-Sabari-Girish/Hayasen) - An Embedded Rust crate with support for multiple sensors <br>• [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - Blazingly fast serial monitor for embedded systems<br>• [Kiroku](https://github.com/Vaishnav-Sabari-Girish/Kiroku) - TUI tool for boolean expressions and truth tables|• [Smart Door Lock using Li-Fi](https://github.com/Vaishnav-Sabari-Girish/Smart_Door_Lock_Using_Li-Fi)<br>• [Smart Field Monitoring System](https://github.com/Vaishnav-Sabari-Girish/field_monitoring_system)|• [Portfolio Website](https://vaishnav.world) - HTML/CSS/JS<br>• [arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - Interactive Arduino CLI wrapper|
 
 #### 🛠️ What am I working on?
 
@@ -46,7 +46,7 @@ I joined GitHub **4** years ago and have been actively contributing to open-sour
 
 #### 🌐 Connect
 
-[🌍 Website](https://vaishnav.world/) • [💼 LinkedIn](https://www.linkedin.com/in/vaishnav-sabari-girish-b492b1264/) • [📱 Telegram](https://t.me/vaishnav_dev) • [📝 Blog](https://vaishnav.world/blog) • [🔐 Keyoxide](https://keyoxide.org/aspe:keyoxide.org:UGMJ6VGDFJEOVHF27DC7JD6WMQ)
+[🌍 Website](https://vaishnav.world/) • [💼 LinkedIn](https://www.linkedin.com/in/vaishnav-sabari-girish) • [📱 Telegram](https://t.me/vaishnav_dev) • [📝 Blog](https://vaishnav.world/blog) • [🔐 Keyoxide](https://keyoxide.org/aspe:keyoxide.org:UGMJ6VGDFJEOVHF27DC7JD6WMQ)
 
 💖 Open to **embedded systems opportunities for freshers**!
 
