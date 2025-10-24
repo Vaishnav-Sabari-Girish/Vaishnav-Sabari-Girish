@@ -21,9 +21,22 @@ I joined GitHub **4** years ago and have been actively contributing to open-sour
 
 #### 🚀 Projects
 
-|**Rust**|**C++ (Arduino)**|**Web & Scripting**|
-|--|--|--|
-|• [Hayasen](https://github.com/Vaishnav-Sabari-Girish/Hayasen) - An Embedded Rust crate with support for multiple sensors <br>• [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) - Blazingly fast serial monitor for embedded systems<br>• [Kiroku](https://github.com/Vaishnav-Sabari-Girish/Kiroku) - TUI tool for boolean expressions and truth tables|• [Smart Door Lock using Li-Fi](https://github.com/Vaishnav-Sabari-Girish/Smart_Door_Lock_Using_Li-Fi)<br>• [Smart Field Monitoring System](https://github.com/Vaishnav-Sabari-Girish/field_monitoring_system)|• [Portfolio Website](https://vaishnav.world) - HTML/CSS/JS<br>• [arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) - Interactive Arduino CLI wrapper|
+**Rust**
+- [Hayasen](https://github.com/Vaishnav-Sabari-Girish/Hayasen) – Embedded Rust crate with sensor support
+- [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) – Fast serial monitor for embedded systems
+- [Kiroku](https://github.com/Vaishnav-Sabari-Girish/Kiroku) – TUI tool for boolean expressions
+
+**C**
+- [Sbor](https://github.com/Vaishnav-Sabari-Girish/sbor) – Build & dependency management tool for C
+
+**C++ (Arduino)**
+- [Smart Door Lock using Li-Fi](https://github.com/Vaishnav-Sabari-Girish/Smart_Door_Lock_Using_Li-Fi)
+- [Smart Field Monitoring System](https://github.com/Vaishnav-Sabari-Girish/field_monitoring_system)
+
+**Web & Scripting**
+- [Portfolio Website](https://vaishnav.world) – HTML/CSS/JS
+- [arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) – Interactive Arduino CLI wrapper
+- [My Gists](https://gist.github.com/Vaishnav-Sabari-Girish/) - Collection of some script I use daily. Main for aesthetics and automation.
 
 #### 🛠️ What am I working on?
 
