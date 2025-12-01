@@ -14,6 +14,7 @@
 <br clear="left"/>
 
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
+<br>
 
 #### ⚡ Stats
 
@@ -63,14 +64,9 @@ I joined GitHub **4** years ago and have been actively contributing to open-sour
 
 💖 Open to **embedded systems opportunities for freshers**!
 
-#### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vaishnav-Sabari-Girish&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+### 🌐 Join Me on CoderLegion
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnav-Sabari-Girish&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Vaishnav-sabari-girish) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Vaishnav-sabari-girish)
 
 **~** *vaishnav.world*
