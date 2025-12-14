@@ -26,6 +26,7 @@ I joined GitHub **4** years ago and have been actively contributing to open-sour
 - [Hayasen](https://github.com/Vaishnav-Sabari-Girish/Hayasen) – Embedded Rust crate with sensor support
 - [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) – Fast serial monitor for embedded systems
 - [Kiroku](https://github.com/Vaishnav-Sabari-Girish/Kiroku) – TUI tool for boolean expressions
+- [nibble](https://github.com/Vaishnav-Sabari-Girish/nibble) – Inline TUI for scripts. Like [gum](https://github.com/charmbracelet/gum)
 
 **C**
 - [Sbor](https://github.com/Vaishnav-Sabari-Girish/sbor) – Build & dependency management tool for C
