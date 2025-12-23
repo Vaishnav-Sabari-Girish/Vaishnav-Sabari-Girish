@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vaishnav-Sabari-Girish.Vaishnav-Sabari-Girish" />
-
 <img src="./out.png" align="left" width="400"/>
 
 ### Hey!
@@ -12,6 +10,7 @@
 🌱 Currently learning Japanese and exploring embedded systems opportunities.
 
 <br clear="left"/>
+<br>
 
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
 <br>
