@@ -12,6 +12,7 @@
 <br clear="left"/>
 <br>
 
+[![pgp](https://img.shields.io/badge/pgp-0x0AFB94F820A38489-313131?style=flat&labelColor=545454&color=313131)](https://github.com/Vaishnav-Sabari-Girish.gpg)
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
 <br>
 
