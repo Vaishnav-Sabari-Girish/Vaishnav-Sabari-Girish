@@ -31,6 +31,7 @@ I joined GitHub **4** years ago and have been actively contributing to open-sour
 
 **C**
 - [Sbor](https://github.com/Vaishnav-Sabari-Girish/sbor) – Build & dependency management tool for C
+- [NextStd](https://github.com/NextStd) - Working toward a safer standard library for the next generation
 
 **C++ (Arduino)**
 - [Smart Door Lock using Li-Fi](https://github.com/Vaishnav-Sabari-Girish/Smart_Door_Lock_Using_Li-Fi)
