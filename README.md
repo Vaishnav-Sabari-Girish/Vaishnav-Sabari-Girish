@@ -17,10 +17,6 @@
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
 <br>
 
-#### ⚡ Stats
-
-I joined GitHub **4** years ago and have been actively contributing to open-source projects, building embedded applications, and working with various microcontrollers and development tools.
-
 #### 🚀 Projects
 
 **Rust**
@@ -51,7 +47,7 @@ I joined GitHub **4** years ago and have been actively contributing to open-sour
 |**Studying**|Final year Electronics Engineering at Jain University.|
 |**Contributing**|Open-source embedded development tools and libraries.|
 |**Exploring**|Modern embedded development workflows and automation.|
-|**Developing**|Cross-platform terminal applications and system utilities.|
+|**Developing**|Embedded Tools to make the lives of people a breeze|
 
 #### 💻 Technologies
 
