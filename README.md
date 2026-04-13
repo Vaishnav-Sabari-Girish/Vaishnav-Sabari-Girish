@@ -25,6 +25,10 @@
 - [Kiroku](https://github.com/Vaishnav-Sabari-Girish/Kiroku) – TUI tool for boolean expressions
 - [nibble](https://github.com/Vaishnav-Sabari-Girish/nibble) – Inline TUI for scripts. Like [gum](https://github.com/charmbracelet/gum)
 
+**Embedded Rust**
+- [AlertAngel](https://github.com/AlertAngel) - A device to make Elderly patient monitoring a breeze
+- [TaskScope](https://github.com/Vaishnav-Sabari-Girish/TaskScope) – Visualize Embassy task execution on e-paper via a dual-MCU Rust system
+
 **C**
 - [Sbor](https://github.com/Vaishnav-Sabari-Girish/sbor) – Build & dependency management tool for C
 - [NextStd](https://github.com/NextStd) - Working toward a safer standard library for the next generation
@@ -52,20 +56,15 @@
 #### 💻 Technologies
 
 **Programming Languages:** Rust • C/C++ • Python • Bash  
-**Hardware:** STM32 • ESP32 • Nordic Microcontrollers  
+**Hardware:** STM32 • ESP32 • RP2040 • Nordic Microcontrollers  
 **Tools:** Git • Linux • Neovim • KiCad • Docker • TMUX  
 **Web:** HTML/CSS • JavaScript • Typst  
-**Language Learning:** Japanese (目指せN3!)
+**Language Learning:** Japanese (目指せN2!)
 
 #### 🌐 Connect
 
 [🌍 Website](https://vaishnav.world/) • [💼 LinkedIn](https://www.linkedin.com/in/vaishnav-sabari-girish) • [📱 Telegram](https://t.me/vaishnav_dev) • [📝 Blog](https://vaishnav.world/blog) • [🔐 Keyoxide](https://keyoxide.org/aspe:keyoxide.org:UGMJ6VGDFJEOVHF27DC7JD6WMQ)
 
 💖 Open to **embedded systems opportunities for freshers**!
-
-
-### 🌐 Join Me on CoderLegion
-
-[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Vaishnav-sabari-girish) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Vaishnav-sabari-girish)
 
 **~** *vaishnav.world*
