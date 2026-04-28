@@ -27,7 +27,6 @@
 
 **Embedded Rust**
 - [AlertAngel](https://github.com/AlertAngel) - A device to make Elderly patient monitoring a breeze
-- [TaskScope](https://github.com/Vaishnav-Sabari-Girish/TaskScope) – Visualize Embassy task execution on e-paper via a dual-MCU Rust system
 
 **C**
 - [Sbor](https://github.com/Vaishnav-Sabari-Girish/sbor) – Build & dependency management tool for C
