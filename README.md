@@ -20,11 +20,11 @@
 #### 🌟 Featured Projects
 <!-- featured:start -->
 <div align="center">
-  <a href="https://github.com/AlertAngel/AlertAngel">
+  <a href="https://github.com/Vaishnav-Sabari-Girish/ComChan">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./showcase-AlertAngel-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./showcase-AlertAngel.svg" />
-      <img alt="AlertAngel" src="./showcase-AlertAngel.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./showcase-ComChan-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./showcase-ComChan.svg" />
+      <img alt="ComChan" src="./showcase-ComChan.svg" />
     </picture>
   </a>
   <a href="https://github.com/NextStd/nextstd">
@@ -34,11 +34,11 @@
       <img alt="nextstd" src="./showcase-nextstd.svg" />
     </picture>
   </a>
-  <a href="https://github.com/Vaishnav-Sabari-Girish/ComChan">
+  <a href="https://github.com/AlertAngel/AlertAngel">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./showcase-ComChan-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./showcase-ComChan.svg" />
-      <img alt="ComChan" src="./showcase-ComChan.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./showcase-AlertAngel-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./showcase-AlertAngel.svg" />
+      <img alt="AlertAngel" src="./showcase-AlertAngel.svg" />
     </picture>
   </a>
   <a href="https://github.com/Vaishnav-Sabari-Girish/Zephyr-Experiment">
