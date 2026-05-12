@@ -17,6 +17,10 @@
 [![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/grindhousedev/grindlines)
 <br>
 
+#### 🌟 Featured Projects
+<!-- featured:start -->
+<!-- featured:end -->
+
 #### 🚀 Projects
 
 **Rust**
