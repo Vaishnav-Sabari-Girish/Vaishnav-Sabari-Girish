@@ -51,29 +51,6 @@
 </div>
 <!-- featured:end -->
 
-#### 🚀 Projects
-
-**Rust**
-- [Hayasen](https://github.com/Vaishnav-Sabari-Girish/Hayasen) – Embedded Rust crate with sensor support
-- [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) – Fast serial monitor for embedded systems
-- [Kiroku](https://github.com/Vaishnav-Sabari-Girish/Kiroku) – TUI tool for boolean expressions
-- [nibble](https://github.com/Vaishnav-Sabari-Girish/nibble) – Inline TUI for scripts. Like [gum](https://github.com/charmbracelet/gum)
-
-**Embedded Rust**
-- [AlertAngel](https://github.com/AlertAngel) - A device to make Elderly patient monitoring a breeze
-
-**C**
-- [Sbor](https://github.com/Vaishnav-Sabari-Girish/sbor) – Build & dependency management tool for C
-- [NextStd](https://github.com/NextStd) - Working toward a safer standard library for the next generation
-
-**C++ (Arduino)**
-- [Smart Door Lock using Li-Fi](https://github.com/Vaishnav-Sabari-Girish/Smart_Door_Lock_Using_Li-Fi)
-- [Smart Field Monitoring System](https://github.com/Vaishnav-Sabari-Girish/field_monitoring_system)
-
-**Web & Scripting**
-- [Portfolio Website](https://vaishnav.world) – HTML/CSS/JS
-- [arduino-cli-interactive](https://github.com/Vaishnav-Sabari-Girish/arduino-cli-interactive) – Interactive Arduino CLI wrapper
-- [My Gists](https://gist.github.com/Vaishnav-Sabari-Girish/) - Collection of some script I use daily. Main for aesthetics and automation.
 
 #### 🛠️ What am I working on?
 
