@@ -41,6 +41,13 @@
       <img alt="AlertAngel" src="./showcase-AlertAngel.svg" />
     </picture>
   </a>
+  <a href="https://github.com/Vaishnav-Sabari-Girish/frdm_mcxa156_pac">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./showcase-frdm_mcxa156_pac-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./showcase-frdm_mcxa156_pac.svg" />
+      <img alt="Zephyr-Experiment" src="./showcase-frdm_mcxa156_pac.svg" />
+    </picture>
+  </a>
   <a href="https://github.com/Vaishnav-Sabari-Girish/Zephyr-Experiment">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./showcase-Zephyr-Experiment-dark.svg" />
@@ -73,8 +80,8 @@
 
 #### 🌐 Connect
 
-[🌍 Website](https://vaishnav.world/) • [💼 LinkedIn](https://www.linkedin.com/in/vaishnav-sabari-girish) • [📱 Telegram](https://t.me/vaishnav_dev) • [📝 Blog](https://vaishnav.world/blog) • [🔐 Keyoxide](https://keyoxide.org/aspe:keyoxide.org:UGMJ6VGDFJEOVHF27DC7JD6WMQ)
+[🌍 Website](https://vaishnav-sabari-girish.github.io) • [💼 LinkedIn](https://www.linkedin.com/in/vaishnav-sabari-girish) • [📱 Telegram](https://t.me/vaishnav_dev) • [📝 Blog](https://vaishnav-sabari-girish.github.io/blog) • [🔐 Keyoxide](https://keyoxide.org/aspe:keyoxide.org:UGMJ6VGDFJEOVHF27DC7JD6WMQ)
 
 💖 Open to **embedded systems opportunities for freshers**!
 
-**~** *vaishnav.world*
+**~** *https://vaishnav-sabari-girish.github.io*
