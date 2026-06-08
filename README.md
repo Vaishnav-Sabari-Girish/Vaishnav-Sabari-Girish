@@ -45,7 +45,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./showcase-frdm_mcxa156_pac-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./showcase-frdm_mcxa156_pac.svg" />
-      <img alt="Zephyr-Experiment" src="./showcase-frdm_mcxa156_pac.svg" />
+      <img alt="frdm_mcxa156_pac" src="./showcase-frdm_mcxa156_pac.svg" />
     </picture>
   </a>
   <a href="https://github.com/Vaishnav-Sabari-Girish/Zephyr-Experiment">
