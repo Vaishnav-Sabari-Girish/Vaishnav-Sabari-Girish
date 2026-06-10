@@ -82,6 +82,4 @@
 
 [🌍 Website](https://vaishnav-sabari-girish.github.io) • [💼 LinkedIn](https://www.linkedin.com/in/vaishnav-sabari-girish) • [📱 Telegram](https://t.me/vaishnav_dev) • [📝 Blog](https://vaishnav-sabari-girish.github.io/blog) • [🔐 Keyoxide](https://keyoxide.org/aspe:keyoxide.org:UGMJ6VGDFJEOVHF27DC7JD6WMQ)
 
-💖 Open to **embedded systems opportunities for freshers**!
-
 **~** *https://vaishnav-sabari-girish.github.io*
