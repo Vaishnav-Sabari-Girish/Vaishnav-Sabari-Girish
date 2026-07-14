@@ -27,25 +27,11 @@
       <img alt="ComChan" src="./showcase-ComChan.svg" />
     </picture>
   </a>
-  <a href="https://github.com/NextStd/nextstd">
+  <a href="https://github.com/Vaishnav-Sabari-Girish/miru">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./showcase-nextstd-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./showcase-nextstd.svg" />
-      <img alt="nextstd" src="./showcase-nextstd.svg" />
-    </picture>
-  </a>
-  <a href="https://github.com/AlertAngel/AlertAngel">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./showcase-AlertAngel-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./showcase-AlertAngel.svg" />
-      <img alt="AlertAngel" src="./showcase-AlertAngel.svg" />
-    </picture>
-  </a>
-  <a href="https://github.com/Vaishnav-Sabari-Girish/frdm_mcxa156_pac">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./showcase-frdm_mcxa156_pac-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./showcase-frdm_mcxa156_pac.svg" />
-      <img alt="frdm_mcxa156_pac" src="./showcase-frdm_mcxa156_pac.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./showcase-miru-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./showcase-miru.svg" />
+      <img alt="miru" src="./showcase-miru.svg" />
     </picture>
   </a>
   <a href="https://github.com/Vaishnav-Sabari-Girish/Zephyr-Experiment">
