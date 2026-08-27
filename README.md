@@ -40,10 +40,10 @@
 #### 💻 Technologies
 
 **Programming Languages:** Rust • C/C++ • Python • Bash  
-**Hardware:** STM32 • ESP32 • RP2040 • Nordic Microcontrollers  
-**Tools:** Git • Linux • Neovim • KiCad • Docker • TMUX  
-**Web:** HTML/CSS • JavaScript • Typst  
-**Language Learning:** Japanese (目指せN2!)
+**Hardware:** STM32 • ESP32 • RP2040 • Nordic Microcontrollers • NXP microcontrollers  
+**Tools:** Git • Linux • Neovim • KiCad • Neovim   
+**Web:** HTML/CSS • JavaScript • Typst
+**Language Learning:** Japanese (目指せN1!)
 
 #### 🌐 Connect
 
