@@ -4,11 +4,11 @@
 ### Hey!
 👋 I'm **Vaishnav**.
 
-⚡ An electronics engineering student passionate about **embedded systems development**.
+⚡ An electronics engineering graduate passionate about **embedded systems development and Linux**.
 
-🔧 I work with microcontrollers, build automation tools, and contribute to open-source projects.
+🔧 I work with microcontrollers, linux, and contribute to open-source projects.
 
-🌱 Currently learning Japanese and exploring embedded systems opportunities.
+🌱 Currently learning Japanese.
 
 <br clear="left"/>
 <br>
@@ -18,32 +18,13 @@
 <br>
 
 #### 🌟 Featured Projects
-<!-- featured:start -->
-<div align="center">
-  <a href="https://github.com/Vaishnav-Sabari-Girish/ComChan">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./showcase-ComChan-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./showcase-ComChan.svg" />
-      <img alt="ComChan" src="./showcase-ComChan.svg" />
-    </picture>
-  </a>
-  <a href="https://github.com/Vaishnav-Sabari-Girish/miru">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./showcase-miru-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./showcase-miru.svg" />
-      <img alt="miru" src="./showcase-miru.svg" />
-    </picture>
-  </a>
-  <a href="https://github.com/Vaishnav-Sabari-Girish/Zephyr-Experiment">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./showcase-Zephyr-Experiment-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./showcase-Zephyr-Experiment.svg" />
-      <img alt="Zephyr-Experiment" src="./showcase-Zephyr-Experiment.svg" />
-    </picture>
-  </a>
-</div>
-<!-- featured:end -->
 
+1. [ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan): Blazingly Fast serial monitor with multiple features (Serial Monitor, Plotter, BLE log viewer and many more)
+2. [`miru`](https://codeberg.org/Vaishnav-Sabari-Girish/miru) : A wayland-native zooming daemon
+3. [Zephyr-Experiment](https://codeberg.org/Vaishnav-Sabari-Girish/Zephyr-Experiment): Hands-on experiments exploring Zephyr RTOS fundamentals, drivers, and embedded workflows.
+4. [Embedded Rust](https://github.com/Vaishnav-Sabari-Girish/Embedded-Rust) :  List of Embedded Rust Programs for multiple Microcontrollers
+5. [Daily-Kanji](https://codeberg.org/Vaishnav-Sabari-Girish/Daily-Kanji) : Kanji Practice TUI with a PDF report generator.
+6. [dotfiles](https://codeberg.org/Vaishnav-Sabari-Girish/dotfiles) : The dotfiles for my Linux system 
 
 #### 🛠️ What am I working on?
 
@@ -66,6 +47,6 @@
 
 #### 🌐 Connect
 
-[🌍 Website](https://vaishnavs.is-a.dev) • [💼 LinkedIn](https://www.linkedin.com/in/vaishnav-sabari-girish) • [📱 Telegram](https://t.me/vaishnav_dev) • [📝 Blog](https://blog.vaishnavs.is-a.dev) • [🔐 Keyoxide](https://keyoxide.org/aspe:keyoxide.org:UGMJ6VGDFJEOVHF27DC7JD6WMQ)
+[🌍 Website](https://vaishnavs.is-a.dev) • [💼 LinkedIn](https://www.linkedin.com/in/vaishnav-sabari-girish) • [📱 Telegram](https://t.me/vaishnav_dev) • [📝 Blog](https://blog.vaishnavs.is-a.dev) • [🐘 Mastodon](https://elk.zone/defcon.social/@vaishnav) • [🦋 Bluesky](https://bsky.app/profile/vaishnav-dev.bsky.social)
 
 **~** *https://vaishnavs.is-a.dev*
