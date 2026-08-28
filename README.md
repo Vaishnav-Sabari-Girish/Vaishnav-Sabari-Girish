@@ -1,5 +1,6 @@
-<img src="./out.png" align="center" width="400"/>
-
+<p align = "center">
+  <img src="./out.png" width="400"/>
+</p>
 
 ### Hey!
 👋 I'm **Vaishnav**.
