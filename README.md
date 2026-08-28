@@ -1,4 +1,4 @@
-<img src="./out.png" align="left" width="400"/>
+<img src="./out.png" align="center" width="400"/>
 
 
 ### Hey!
