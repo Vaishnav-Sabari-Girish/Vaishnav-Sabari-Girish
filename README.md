@@ -48,6 +48,6 @@
 
 #### 🌐 Connect
 
-[🌍 Website](https://vaishnavs.is-a.dev) • [💼 LinkedIn](https://www.linkedin.com/in/vaishnav-sabari-girish) • [📱 Telegram](https://t.me/vaishnav_dev) • [📝 Blog](https://blog.vaishnavs.is-a.dev) • [🐘 Mastodon](https://elk.zone/defcon.social/@vaishnav) • [🦋 Bluesky](https://bsky.app/profile/vaishnav-dev.bsky.social)
+[🌍 Website](https://vaishnavs.is-a.dev) • [💼 LinkedIn](https://www.linkedin.com/in/vaishnav-sabari-girish) • [📱 Telegram](https://t.me/vaishnav_dev) • [📝 Blog](https://blog.vaishnavs.is-a.dev) • [🐘 Mastodon](https://elk.zone/defcon.social/@vaishnav) • [🦋 Bluesky](https://bsky.app/profile/vaishnav-dev.bsky.social) • [🔑 Keyoxide](https://keyoxide.org/C882A020C01653634082BB7CF6E9E3F1DB0AFFCB)
 
 **~** *https://vaishnavs.is-a.dev*
