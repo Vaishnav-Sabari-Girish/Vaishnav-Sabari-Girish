@@ -33,7 +33,7 @@
 |--|--|
 |**Building**|Open-source Rust libraries and embedded applications.|
 |**Learning**|Japanese language and advanced embedded systems concepts.|
-|**Studying**|Final year Electronics Engineering at Jain University.|
+|**Graduated**|B.Tech in Electronics and Communication Engineering from Jain University.|
 |**Contributing**|Open-source embedded development tools and libraries.|
 |**Exploring**|Modern embedded development workflows and automation.|
 |**Developing**|Embedded Tools to make the lives of people a breeze|
